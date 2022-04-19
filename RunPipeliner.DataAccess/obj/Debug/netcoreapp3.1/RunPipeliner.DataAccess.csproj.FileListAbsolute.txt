@@ -1,0 +1,13 @@
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.DataAccess\bin\Debug\netcoreapp3.1\RunPipeliner.DataAccess.deps.json
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.DataAccess\bin\Debug\netcoreapp3.1\RunPipeliner.DataAccess.dll
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.DataAccess\bin\Debug\netcoreapp3.1\RunPipeliner.DataAccess.pdb
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.DataAccess\obj\Debug\netcoreapp3.1\RunPipeliner.DataAccess.csproj.AssemblyReference.cache
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.DataAccess\obj\Debug\netcoreapp3.1\RunPipeliner.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.DataAccess\obj\Debug\netcoreapp3.1\RunPipeliner.DataAccess.AssemblyInfoInputs.cache
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.DataAccess\obj\Debug\netcoreapp3.1\RunPipeliner.DataAccess.AssemblyInfo.cs
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.DataAccess\obj\Debug\netcoreapp3.1\RunPipeliner.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.DataAccess\obj\Debug\netcoreapp3.1\RunPipeliner.DataAccess.dll
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.DataAccess\obj\Debug\netcoreapp3.1\RunPipeliner.DataAccess.pdb
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.DataAccess\bin\Debug\netcoreapp3.1\RunPipeliner.Domain.dll
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.DataAccess\bin\Debug\netcoreapp3.1\RunPipeliner.Domain.pdb
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.DataAccess\obj\Debug\netcoreapp3.1\RunPipeliner.DataAccess.csproj.CopyComplete

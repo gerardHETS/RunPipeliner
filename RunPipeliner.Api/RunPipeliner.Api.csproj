@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="Scrutor" Version="4.1.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\RunPipeliner.Common\RunPipeliner.Common.csproj" />
+    <ProjectReference Include="..\RunPipeliner.Business\RunPipeliner.Business.csproj" />
+    <ProjectReference Include="..\RunPipeliner.DataAccess\RunPipeliner.DataAccess.csproj" />
+    <ProjectReference Include="..\RunPipeliner.Domain\RunPipeliner.Domain.csproj" />
+  </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,10 @@
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Domain\bin\Debug\netcoreapp3.1\RunPipeliner.Domain.deps.json
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Domain\bin\Debug\netcoreapp3.1\RunPipeliner.Domain.dll
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Domain\bin\Debug\netcoreapp3.1\RunPipeliner.Domain.pdb
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Domain\obj\Debug\netcoreapp3.1\RunPipeliner.Domain.csproj.AssemblyReference.cache
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Domain\obj\Debug\netcoreapp3.1\RunPipeliner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Domain\obj\Debug\netcoreapp3.1\RunPipeliner.Domain.AssemblyInfoInputs.cache
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Domain\obj\Debug\netcoreapp3.1\RunPipeliner.Domain.AssemblyInfo.cs
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Domain\obj\Debug\netcoreapp3.1\RunPipeliner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Domain\obj\Debug\netcoreapp3.1\RunPipeliner.Domain.dll
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Domain\obj\Debug\netcoreapp3.1\RunPipeliner.Domain.pdb

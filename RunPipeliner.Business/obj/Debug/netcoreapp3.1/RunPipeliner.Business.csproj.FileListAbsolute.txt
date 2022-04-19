@@ -1,0 +1,15 @@
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Business\bin\Debug\netcoreapp3.1\RunPipeliner.Business.deps.json
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Business\bin\Debug\netcoreapp3.1\RunPipeliner.Business.dll
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Business\bin\Debug\netcoreapp3.1\RunPipeliner.Business.pdb
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Business\obj\Debug\netcoreapp3.1\RunPipeliner.Business.csproj.AssemblyReference.cache
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Business\obj\Debug\netcoreapp3.1\RunPipeliner.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Business\obj\Debug\netcoreapp3.1\RunPipeliner.Business.AssemblyInfoInputs.cache
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Business\obj\Debug\netcoreapp3.1\RunPipeliner.Business.AssemblyInfo.cs
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Business\obj\Debug\netcoreapp3.1\RunPipeliner.Business.csproj.CoreCompileInputs.cache
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Business\obj\Debug\netcoreapp3.1\RunPipeliner.Business.dll
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Business\obj\Debug\netcoreapp3.1\RunPipeliner.Business.pdb
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Business\bin\Debug\netcoreapp3.1\RunPipeliner.DataAccess.dll
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Business\bin\Debug\netcoreapp3.1\RunPipeliner.Domain.dll
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Business\bin\Debug\netcoreapp3.1\RunPipeliner.DataAccess.pdb
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Business\bin\Debug\netcoreapp3.1\RunPipeliner.Domain.pdb
+C:\Users\GerardBeaubrun\source\repos\RunPipeliner\RunPipeliner.Business\obj\Debug\netcoreapp3.1\RunPipeliner.Business.csproj.CopyComplete

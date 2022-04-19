@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pehjoO/SkKKOvzEXC7YQsCAY2dr0Gb+MG/5UlNKd+XfM/XQ3TlgRD5K9WSIGyvMi8PanvhPm6l+SLobSo3Ldxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Common\\RunPipeliner.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GerardBeaubrun\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\GerardBeaubrun\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

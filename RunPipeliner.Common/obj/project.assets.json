@@ -123,11 +123,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Common\\RunPipeliner.Common.csproj",
+      "projectUniqueName": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Common\\RunPipeliner.Common.csproj",
       "projectName": "RunPipeliner.Common",
-      "projectPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Common\\RunPipeliner.Common.csproj",
+      "projectPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Common\\RunPipeliner.Common.csproj",
       "packagesPath": "C:\\Users\\GerardBeaubrun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Common\\obj\\",
+      "outputPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

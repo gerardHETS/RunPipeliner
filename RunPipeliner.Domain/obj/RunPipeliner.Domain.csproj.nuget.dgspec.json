@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj": {}
+    "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj": {
+    "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj",
         "projectName": "RunPipeliner.Domain",
-        "projectPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj",
+        "projectPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj",
         "packagesPath": "C:\\Users\\GerardBeaubrun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Domain\\obj\\",
+        "outputPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

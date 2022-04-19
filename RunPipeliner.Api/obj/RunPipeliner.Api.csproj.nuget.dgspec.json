@@ -1,80 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Api\\RunPipeliner.Api.csproj": {}
+    "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Api\\RunPipeliner.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner.Common\\RunPipeliner.Common.csproj": {
+    "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Api\\RunPipeliner.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner.Common\\RunPipeliner.Common.csproj",
-        "projectName": "RunPipeliner.Common",
-        "projectPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner.Common\\RunPipeliner.Common.csproj",
-        "packagesPath": "C:\\Users\\GerardBeaubrun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner.Common\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\GerardBeaubrun\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "AutoMapper": {
-              "target": "Package",
-              "version": "[11.0.1, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Api\\RunPipeliner.Api.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Api\\RunPipeliner.Api.csproj",
+        "projectUniqueName": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Api\\RunPipeliner.Api.csproj",
         "projectName": "RunPipeliner.Api",
-        "projectPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Api\\RunPipeliner.Api.csproj",
+        "projectPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Api\\RunPipeliner.Api.csproj",
         "packagesPath": "C:\\Users\\GerardBeaubrun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Api\\obj\\",
+        "outputPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -94,17 +31,17 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner.Common\\RunPipeliner.Common.csproj": {
-                "projectPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner.Common\\RunPipeliner.Common.csproj"
+              "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner.Common\\RunPipeliner.Common.csproj": {
+                "projectPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner.Common\\RunPipeliner.Common.csproj"
               },
-              "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Business\\RunPipeliner.Business.csproj": {
-                "projectPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Business\\RunPipeliner.Business.csproj"
+              "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Business\\RunPipeliner.Business.csproj": {
+                "projectPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Business\\RunPipeliner.Business.csproj"
               },
-              "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.DataAccess\\RunPipeliner.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.DataAccess\\RunPipeliner.DataAccess.csproj"
+              "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.DataAccess\\RunPipeliner.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.DataAccess\\RunPipeliner.DataAccess.csproj"
               },
-              "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj": {
-                "projectPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj"
+              "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj": {
+                "projectPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj"
               }
             }
           }
@@ -158,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Business\\RunPipeliner.Business.csproj": {
+    "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Business\\RunPipeliner.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Business\\RunPipeliner.Business.csproj",
+        "projectUniqueName": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Business\\RunPipeliner.Business.csproj",
         "projectName": "RunPipeliner.Business",
-        "projectPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Business\\RunPipeliner.Business.csproj",
+        "projectPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Business\\RunPipeliner.Business.csproj",
         "packagesPath": "C:\\Users\\GerardBeaubrun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Business\\obj\\",
+        "outputPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -185,11 +122,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.DataAccess\\RunPipeliner.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.DataAccess\\RunPipeliner.DataAccess.csproj"
+              "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.DataAccess\\RunPipeliner.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.DataAccess\\RunPipeliner.DataAccess.csproj"
               },
-              "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj": {
-                "projectPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj"
+              "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj": {
+                "projectPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj"
               }
             }
           }
@@ -228,14 +165,14 @@
         }
       }
     },
-    "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.DataAccess\\RunPipeliner.DataAccess.csproj": {
+    "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.DataAccess\\RunPipeliner.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.DataAccess\\RunPipeliner.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.DataAccess\\RunPipeliner.DataAccess.csproj",
         "projectName": "RunPipeliner.DataAccess",
-        "projectPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.DataAccess\\RunPipeliner.DataAccess.csproj",
+        "projectPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.DataAccess\\RunPipeliner.DataAccess.csproj",
         "packagesPath": "C:\\Users\\GerardBeaubrun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -255,8 +192,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj": {
-                "projectPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj"
+              "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj": {
+                "projectPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj"
               }
             }
           }
@@ -307,14 +244,14 @@
         }
       }
     },
-    "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj": {
+    "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj",
         "projectName": "RunPipeliner.Domain",
-        "projectPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj",
+        "projectPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj",
         "packagesPath": "C:\\Users\\GerardBeaubrun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Domain\\obj\\",
+        "outputPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

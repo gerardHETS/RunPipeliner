@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sLDBVaBhBoOZ26QV7sEQzGZ1auxuSLYipYzK2QG4po9JnZQmTV4vPP6vC5Yn9qmd4wHsmtF+iUYl7SNUyJ+BKg==",
+  "dgSpecHash": "aXpGqGS/IZfXE7k1FkXQMNsYvoRTOmJaf+RsekqTOQbkAer8mC7mhPRcTXMm9EwYB/Oje/YMbQg7KgMwoYv3pA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj",
+  "projectFilePath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

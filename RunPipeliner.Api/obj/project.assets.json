@@ -1896,19 +1896,6 @@
           "bin/placeholder/RunPipeliner.Business.dll": {}
         }
       },
-      "RunPipeliner.Common/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "AutoMapper": "11.0.1"
-        },
-        "compile": {
-          "bin/placeholder/RunPipeliner.Common.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/RunPipeliner.Common.dll": {}
-        }
-      },
       "RunPipeliner.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -6554,11 +6541,6 @@
       "path": "../RunPipeliner.Business/RunPipeliner.Business.csproj",
       "msbuildProject": "../RunPipeliner.Business/RunPipeliner.Business.csproj"
     },
-    "RunPipeliner.Common/1.0.0": {
-      "type": "project",
-      "path": "../../RunPipeliner.Common/RunPipeliner.Common.csproj",
-      "msbuildProject": "../../RunPipeliner.Common/RunPipeliner.Common.csproj"
-    },
     "RunPipeliner.DataAccess/1.0.0": {
       "type": "project",
       "path": "../RunPipeliner.DataAccess/RunPipeliner.DataAccess.csproj",
@@ -6573,9 +6555,9 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "AutoMapper >= 11.0.1",
+      "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner.Common\\RunPipeliner.Common.csproj",
       "Microsoft.Extensions.DependencyInjection >= 6.0.0",
       "RunPipeliner.Business >= 1.0.0",
-      "RunPipeliner.Common >= 1.0.0",
       "RunPipeliner.DataAccess >= 1.0.0",
       "RunPipeliner.Domain >= 1.0.0",
       "Scrutor >= 4.1.0",
@@ -6589,11 +6571,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Api\\RunPipeliner.Api.csproj",
+      "projectUniqueName": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Api\\RunPipeliner.Api.csproj",
       "projectName": "RunPipeliner.Api",
-      "projectPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Api\\RunPipeliner.Api.csproj",
+      "projectPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Api\\RunPipeliner.Api.csproj",
       "packagesPath": "C:\\Users\\GerardBeaubrun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Api\\obj\\",
+      "outputPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6613,17 +6595,17 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner.Common\\RunPipeliner.Common.csproj": {
-              "projectPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner.Common\\RunPipeliner.Common.csproj"
+            "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner.Common\\RunPipeliner.Common.csproj": {
+              "projectPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner.Common\\RunPipeliner.Common.csproj"
             },
-            "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Business\\RunPipeliner.Business.csproj": {
-              "projectPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Business\\RunPipeliner.Business.csproj"
+            "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Business\\RunPipeliner.Business.csproj": {
+              "projectPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Business\\RunPipeliner.Business.csproj"
             },
-            "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.DataAccess\\RunPipeliner.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.DataAccess\\RunPipeliner.DataAccess.csproj"
+            "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.DataAccess\\RunPipeliner.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.DataAccess\\RunPipeliner.DataAccess.csproj"
             },
-            "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj": {
-              "projectPath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj"
+            "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj": {
+              "projectPath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Domain\\RunPipeliner.Domain.csproj"
             }
           }
         }
@@ -6676,5 +6658,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner.Common\\RunPipeliner.Common.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner.Common\\RunPipeliner.Common.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

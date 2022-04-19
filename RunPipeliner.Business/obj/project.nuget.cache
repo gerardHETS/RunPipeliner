@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "amTn4DxAO5FdmJsq4tNO6vmLCjEcDChtR/NJDLPfGtmuzA2Z5cNqvuJWSnfoEiLfX+3Fyo0RWg1GW9ZgM6yCbg==",
+  "dgSpecHash": "uRZXZP+bmkXHi/cZcXupmMrXXjOoeHpAB3nvx5R5Jyqlf9FHFW4sW1D0YYc3FPZzu7vk89obzqIlotF+lviyQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GerardBeaubrun\\source\\repos\\RunPipeliner\\RunPipeliner.Business\\RunPipeliner.Business.csproj",
+  "projectFilePath": "C:\\Users\\GerardBeaubrun\\Source\\Repos\\gerardHETS\\RunPipeliner\\RunPipeliner.Business\\RunPipeliner.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GerardBeaubrun\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\GerardBeaubrun\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
